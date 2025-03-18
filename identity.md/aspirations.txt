@@ -1,0 +1,17 @@
+Practice Exercise: Tracking Your Dreams
+Now let's make Git personal for you. This isn't about following instructions—it's about using Git to capture something meaningful to you.
+
+Consider these questions:
+
+1. What are your dreams? Be they dream projects or dream applications you'd like to build?
+2. Is this dream truly yours, or is it something you think you "should" want?
+3.Are you familiar with Abraham Maslow's Hierarchy of Needs? If yes, how does your dream relate to the different levels of needs? If no, consider exploring this concept.
+Don't just answer these mentally—capture your thoughts in a file and use Git to track changes as your thinking evolves. Commit your dreams to Git and watch how they transform over time.
+
+You might start simple: create a file about your aspirations, commit it, then refine your thoughts and commit again. There's no right or wrong way to do this—what matters is making Git an instinctive, natural part of how you develop and track your ideas.
+
+Remember, the goal isn't to produce a perfect file or follow precise steps. The goal is to start incorporating Git into your natural workflow, until using version control becomes as instinctive as saving a file, using it as a tool for tracking the evolution of your thoughts and work.
+
+1. i want make a project enterprise applications. like ERP for manufacturing.etc.
+2. that's truly my dream.
+3. nope
