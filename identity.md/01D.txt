@@ -1,0 +1,24 @@
+Challenge Your Understanding
+Now that you've taken your first steps with Git, take a moment to reflect:
+
+Question: In your own words, what is Git and why would you use it?
+
+Think about this question deeply before moving on. Your answer should go beyond just repeating the formal definition. Try to articulate how Git could be useful in your specific work or projects.
+
+If you can explain Git in your own words and relate it to your personal needs, you're well on your way to transforming this knowledge into a natural capability!
+
+git is a like you working on a thesis. there are various files with different versions for example
+- skripsi.doc (version 1)
+- skripsi-revision.doc (version 2)
+- skripsi-revision1.doc (version 3)
+- skripsi-revision2.doc (version 4)
+- skripsi-revision3.doc (version 5)
+- skripsi-final.doc (version 6)
+- skripsi-fix-final.doc (version 7)
+- skripsi-fix-fix-final.doc (version 8).
+in git it's the same. what makes git different is that it's more structured history created with branching.
+
+
+
+
+
